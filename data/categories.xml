@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+    <item>
+        <name>Phone</name>
+        <decription>Điện thoại</decription>
+    </item>
+    <item>
+        <name>Headphone</name>
+        <decription>Tai nghe</decription>
+    </item>
+    <item>
+        <name>Tivi</name>
+        <decription>Thiết bị điện</decription>
+    </item>
+    <item>
+        <name>Máy lạnh</name>
+        <decription>Điện gia dụng</decription>
+    </item>
+    <item>
+        <name>Đồ bếp</name>
+        <decription>Điện gia dụng</decription>
+    </item>
+    <item>
+        <name>Dịch vụ</name>
+        <decription>Các dịch vụ khác</decription>
+    </item>
+    <item>
+        <name>Bảo hành</name>
+        <decription>Bảo hành và các thông tin khác</decription>
+    </item>
+</categories>

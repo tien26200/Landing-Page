@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user role="KH">
+        <name>java3</name>
+        <pass>123</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+    <user role="KH">
+        <name>admin</name>
+        <pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+    <user role="KH">
+        <name>admin2</name>
+        <pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+    <user role="KH">
+        <name>admin2d</name>
+        <pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+    <user role="KH">
+        <name>admin2d4</name>
+        <pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+    <user role="KH">
+        <name>admin2d4e</name>
+        <pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+    <user role="KH">
+        <name>ad</name>
+        <pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass>
+        <phone>454</phone>
+        <email>convitgaycanh@gmail.com</email>
+        <birthday>2021-12-02</birthday>
+    </user>
+<user role="KH"><name>Phú</name><pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass><phone>0385147811</phone><email>convitgaycanh@gmail.com</email><birthday>2021-12-14</birthday></user><user role="KH"><name>admin2d4es</name><pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass><phone>123</phone><email>convitgaycanh@gmail.com</email><birthday>2022-01-19</birthday></user><user role="KH"><name>phu</name><pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass><phone>-1</phone><email>convitgaycanh@gmail.com</email><birthday>2022-01-12</birthday></user><user role="KH"><name>123</name><pass>e3431a8e0adbf96fd140103dc6f63a3f8fa343ab</pass><phone>123</phone><email>convitgaycanh@gmail.com</email><birthday>2022-01-05</birthday></user><user role="KH"><name>phu1</name><pass>c47907abd2a80492ca9388b05c0e382518ff3960</pass><phone>1</phone><email>convitgaycanh@gmail.com</email><birthday>2022-01-05</birthday></user></users>

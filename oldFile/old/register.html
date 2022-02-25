@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng ký | Khách hàng</title>
+    <style>
+        *{
+            box-sizing: border-box;
+        }
+        .container {
+            width: 300px;
+            align-items: center;
+            margin: 0 auto;
+            margin-top: 100px;
+        }
+
+        span {
+            margin-top: 20px;
+            display: block;
+        }
+
+        input {
+            padding: 10px;
+            width: 300px;
+            border-radius: 5px;
+        }
+
+        input::-webkit-outer-spin-button,
+        input::-webkit-inner-spin-button {
+            -webkit-appearance: none;
+            margin: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="form">
+            <form action="processor.php" method="post">
+                <span>Tên đăng nhập:</span>
+                <input type="text" placeholder="Nhập tên của bạn" name="name" required>
+                <br><span>Mật khẩu:</span>
+                <input type="password" placeholder="Nhập mật khẩu" name="pass" required>
+                <br><span>Số điện thoại:</span>
+                <input type="number" placeholder="Số điện thoại của bạn" name="phone" required>
+                <br><span>Email:</span>
+                <input type="email" placeholder="Email của bạn" name="email" required>
+                <br><span>Ngày sinh:</span>
+                <input type="date" required name="birthday"><br><br>
+                <input type="hidden" name="role" value="KH">
+                <input type="submit" value="Đăng ký" >
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>
